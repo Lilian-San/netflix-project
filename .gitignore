@@ -8,3 +8,5 @@ __pycache__/
 data/*.zip
 data/*.7z
 data/*.rar
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
