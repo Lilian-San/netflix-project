@@ -1,10 +1,7 @@
-# Ignore virtual environments and OS files
 .env
 .venv
 __pycache__/
 .DS_Store
-
-# Ignore big data files (you can commit a small CSV if needed)
 data/*.zip
 data/*.7z
 data/*.rar
