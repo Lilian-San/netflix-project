@@ -2,16 +2,16 @@
 
 This project analyzes the public **Netflix Titles** dataset to uncover trends in title types, genres, release years, and production countries.
 
-## 📝 One-sentence takeaway
+##  One-sentence takeaway
 Titles rise fast from 2016 and peak in 2018; the later dip mostly reflects a ~1.0-year add-to-Netflix lag and the 2020 slowdown.
 
-## 🔎 Key Insights
+##  Key Insights
 - Movies make up **70%** of titles (Movies: 6,131, TV Shows: 2,676).
 - Top producing countries: **United States (3,689), India (1,046), United Kingdom (804)**.
 - Top genres: **International Movies, Dramas, Comedies**.
 - From 2016→2018 titles grew **27%** (from 902 to 1,147).
 
-▶️ Open the analysis notebook: [notebooks/netflix_analysis.ipynb](notebooks/netflix_analysis.ipynb)
+ Open the analysis notebook: [notebooks/netflix_analysis.ipynb](notebooks/netflix_analysis.ipynb)
 
 ## Dataset
 - Source: https://www.kaggle.com/shivamb/netflix-shows
@@ -33,7 +33,7 @@ Titles rise fast from 2016 and peak in 2018; the later dip mostly reflects a ~1.
 - Python 3, pandas, matplotlib
 - Jupyter Notebook
 
-## 📈 Key Visuals
+##  Key Visuals
 
 **Movies vs TV Shows**  
 ![Movies vs TV Shows](images/movies_vs_tvshows.png)
